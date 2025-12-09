@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "thiago-japyassu-6mEoxkIi_Yc-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "thiago-japyassu-6mEoxkIi_Yc-unsplash 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "thiago-japyassu-6mEoxkIi_Yc-unsplash 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

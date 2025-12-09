@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "toomas-tartes-Yizrl9N_eDA-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "toomas-tartes-Yizrl9N_eDA-unsplash 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "toomas-tartes-Yizrl9N_eDA-unsplash 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

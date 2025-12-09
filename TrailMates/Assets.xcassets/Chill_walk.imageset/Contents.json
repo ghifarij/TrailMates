@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "cloris-chou-K__HruFmNuo-unsplash.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "cloris-chou-K__HruFmNuo-unsplash 1.jpg",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "cloris-chou-K__HruFmNuo-unsplash 2.jpg",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}

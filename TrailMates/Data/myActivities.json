@@ -1,0 +1,41 @@
+[
+  {
+    "id": "F1A2B3C4-D5E6-4789-ABCD-1234EF567890",
+    "imageName": "",
+    "title": "Mountain Sunrise Hike",
+    "distance": 12.4,
+    "category": "Hiking",
+    "date": "Saturday, May 3 2025",
+    "time": "06:30 GMT+8",
+    "contact": "081987654321",
+    "guests": 8,
+    "location": "Gunung Batur Trailhead",
+    "locationImageName": ""
+  },
+  {
+    "id": "0987FEDC-BA65-4321-0FED-CBA987654321",
+    "imageName": "Sunset_beach_yoga",
+    "title": "Sunset Beach Yoga",
+    "distance": 2.1,
+    "category": "Yoga",
+    "date": "Friday, May 9 2025",
+    "time": "17:45 GMT+8",
+    "contact": "081234567890",
+    "guests": 12,
+    "location": "Sanur Beach",
+    "locationImageName": ""
+  },
+  {
+    "id": "12345678-90AB-CDEF-1234-567890ABCDEF",
+    "imageName": "",
+    "title": "City Cycling Tour",
+    "distance": 15.8,
+    "category": "Cycling",
+    "date": "Sunday, May 11 2025",
+    "time": "07:00 GMT+8",
+    "contact": "081112223333",
+    "guests": 10,
+    "location": "Denpasar City Center",
+    "locationImageName": ""
+  }
+]

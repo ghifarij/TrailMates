@@ -1,0 +1,55 @@
+[
+  {
+    "id": "E3C1D6A4-4E9F-4C3F-8D24-1A2B3C4D5E6F",
+    "imageName": "run_fun",
+    "title": "Run Fun",
+    "distance": 4.2,
+    "category": "Running",
+    "date": "Sunday, Apr 13 2025",
+    "time": "09.00 GMT+8",
+    "contact": "08123456789",
+    "guests": 5,
+    "location": "Lapangan Puputan Bandung",
+    "locationImageName": "lapangan_puputan"
+  },
+  {
+    "id": "A1B2C3D4-5E6F-7A8B-9C0D-E1F2A3B4C5D6",
+    "imageName": "Chill_walk",
+    "title": "Chill Walk",
+    "distance": 5.0,
+    "category": "Walking",
+    "date": "Sunday, Apr 20 2025",
+    "time": "09.00 GMT+8",
+    "contact": "08123456789",
+    "guests": 1,
+    "location": "Taman Sejuk",
+    "locationImageName": ""
+  },
+  {
+    "id": "11111111-2222-3333-4444-555555555555",
+    "imageName": "Hiking_for_beginners",
+    "title": "Hiking for Beginners",
+    "distance": 47.0,
+    "category": "Hiking",
+    "date": "Saturday, Apr 19 2025",
+    "time": "09.00 GMT+8",
+    "contact": "08123456789",
+    "guests": 3,
+    "location": "Mount Easy",
+    "locationImageName": ""
+  },
+  {
+    "id": "66666666-7777-8888-9999-000000000000",
+    "imageName": "Surfing_class",
+    "title": "Surfing Class",
+    "distance": 18.0,
+    "category": "Surfing",
+    "date": "Sunday, Apr 27 2025",
+    "time": "09.00 GMT+8",
+    "contact": "08123456789",
+    "guests": 12,
+    "location": "Hidden Beach",
+    "locationImageName": ""
+  }
+]
+
